@@ -19,6 +19,6 @@
 lib/
 ├── main.dart
 
-🎥 [Watch Demo Video]-->>https://drive.google.com/file/d/17adUwY5lc0B2EVOi5LEgYD64rRXNrUYl/view?usp=drive_link
+🎥 [Watch Demo Video]->>https://drive.google.com/file/d/1mmwkaKJEwGkC88vbGnlyni1L4jr0g4Lz/view?usp=drivesdk
 
 This project is a part of a hackathon run by https://www.katomaran.com 
